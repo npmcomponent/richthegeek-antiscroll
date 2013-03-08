@@ -1,4 +1,3 @@
-
 {
   "name": "mousewheel",
 	"description": "A jQuery plugin that adds cross-browser mouse wheel support.",
@@ -15,7 +14,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"component/jquery": "*",
-		"richthegeek/scrollwheel": "*"
+		"richthegeek/jquery-mousewheel": "*"
 	},
 	"main": "antiscroll.js",
 	"scripts": [
